@@ -110,7 +110,7 @@ export const sidebar: DefaultTheme.Config["sidebar"] = {
         {
           text: "为什么要学React",
           link: "/module/react/01_邂逅react",
-        }
+        },
       ],
     },
   ],

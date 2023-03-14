@@ -3,12 +3,12 @@
 layout: home
 
 hero:
-  name: "句号"
+  name: "躺平宗"
   text: "一颗平常心"
-  tagline: 句号-一段新故事的开始
+  tagline: 焦 躁 | 弃 馁
   image:
     src: /logo.png
-    alt: mjjh
+    alt: ming
   actions:
     - theme: alt
       text: 前往藏经阁
