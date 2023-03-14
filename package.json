@@ -5,7 +5,8 @@
   "scripts": {
     "dev": "vitepress dev doc",
     "build": "vitepress build doc",
-    "preview": "vitepress preview doc"
+    "preview": "vitepress preview doc",
+    "deploy": "bash deploy.sh"
   },
   "dependencies": {
     "@mdit-vue/shared": "^0.12.0",
