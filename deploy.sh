@@ -11,7 +11,7 @@ git add -A
 git commit -m '版本更新' 
 git push -f git@github.com:engineer-cv/vite_blog.git main
 
-cd dist
+cd doc/.vitepress/
 # 如果是发布到自定义域名
 echo 'www.coderwm.com' > CNAME
 # git init
